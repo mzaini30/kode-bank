@@ -3,8 +3,8 @@
   import AnakTabel from "../anak-tabel.svelte";
 </script>
 
-<div class="text-center py-3">KODE BANK</div>
-<div class="px-3">
+<div class="text-center py-3 text-2xl font-serif">KODE BANK</div>
+<div class="px-3 mb-3">
   <table>
     <thead>
       <tr>
